@@ -5,7 +5,7 @@
 
 ### Datasets used in this study consist of:
 #### 1. R environment containing GTEx data filtered for gene expression across all tissues: GTEx NA included env.RData
-#### source: https://doi.org/10.7554/eLife.76887 and https://doi.org/10.7554/eLife.76887
+#### source: https://doi.org/10.7554/eLife.76887 and https://doi.org/10.1038/ng.2653
 
 #### 2. List of human genes annotated to encode secreted proteins: human secreted proteins.tab
 #### source: UniProt
